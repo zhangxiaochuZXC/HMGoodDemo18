@@ -12,4 +12,6 @@
 
 - (void)start;
 
+- (void)end;
+
 @end

@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.version      = "0.0.1"
   s.summary      = "牛逼的框架"
 
-  s.homepage     = "http://http://itcast.cn"
+  s.homepage     = "http://itcast.cn"
 
   s.license      = "MIT"
 
